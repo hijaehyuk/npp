@@ -10,8 +10,8 @@ import { ROUTER } from "@/constants/ROUTER";
 import { API_URL } from "@/constants/API_URL";
 
 type FormValues = {
-  email: string;
-  password: string;
+  email: strinng;
+  password: strinng;
 };
 
 export default function SignIn() {
